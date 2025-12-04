@@ -5,7 +5,7 @@ Privacy, Security, and Compliance of GenAI in LMS: DPIA Study
 
 Module: 7150CEM MSc Data Science Project
 Date: November 2025
-Author: Subhash Yadav
+Author: Harmesh Deshwal
 
 Performs:
 1. Descriptive statistics
